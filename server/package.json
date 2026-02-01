@@ -1,14 +1,14 @@
 {
-  "name": "nookchat",
+  "name": "Ram Chat",
   "version": "1.0.0",
-  "description": "NookChat is a secure and anonymous chat app for one-time, end-to-end encrypted conversations. No login. No traces. Just private talk in a cozy digital nook.",
+  "description": "Ram Chat is a secure and anonymous chat app for one-time, end-to-end encrypted conversations. No login. No traces. Just private talk in a cozy digital Ram.",
   "main": "index.js",
   "type": "module",
   "scripts": {
     "start": "node index.js",
     "dev": "nodemon index.js"
   },
-  "author": "Dharmendra Kumar",
+  "author": "Ram",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
